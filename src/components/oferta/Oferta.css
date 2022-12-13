@@ -1,0 +1,29 @@
+.intro{
+    margin-left: 13px;
+
+}
+.prec{
+    margin-left: 13px;
+    margin-top:0;
+    border-radius: 5px;
+}
+.comen{
+    margin-left: 13px;
+    margin-top: 10px;
+}
+
+.areatext{
+    margin-left:13px;
+    border-radius: 5px;
+
+}
+.modal-header{
+    background-color:#007E33;
+}
+.modal-title{
+    color: white;
+
+}
+.modal-footer{
+    background-color:#F4E1DD;
+}
