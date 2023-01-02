@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ecollect-project/static/css/main.1034ab72.chunk.css",
+    "main.js": "/ecollect-project/static/js/main.1d63b0ab.chunk.js",
+    "main.js.map": "/ecollect-project/static/js/main.1d63b0ab.chunk.js.map",
+    "runtime~main.js": "/ecollect-project/static/js/runtime~main.f10526d9.js",
+    "runtime~main.js.map": "/ecollect-project/static/js/runtime~main.f10526d9.js.map",
+    "static/css/2.39017165.chunk.css": "/ecollect-project/static/css/2.39017165.chunk.css",
+    "static/js/2.272ea832.chunk.js": "/ecollect-project/static/js/2.272ea832.chunk.js",
+    "static/js/2.272ea832.chunk.js.map": "/ecollect-project/static/js/2.272ea832.chunk.js.map",
+    "index.html": "/ecollect-project/index.html",
+    "precache-manifest.d2f0e8cf254d4ee207082cccf8ea8674.js": "/ecollect-project/precache-manifest.d2f0e8cf254d4ee207082cccf8ea8674.js",
+    "service-worker.js": "/ecollect-project/service-worker.js",
+    "static/css/2.39017165.chunk.css.map": "/ecollect-project/static/css/2.39017165.chunk.css.map",
+    "static/css/main.1034ab72.chunk.css.map": "/ecollect-project/static/css/main.1034ab72.chunk.css.map",
+    "static/media/index.css": "/ecollect-project/static/media/seguridad.07b34fdf.png",
+    "static/media/finalizado.png": "/ecollect-project/static/media/finalizado.7df30611.png",
+    "static/media/logotipo_original.png": "/ecollect-project/static/media/logotipo_original.b2e449f3.png"
+  }
+}
